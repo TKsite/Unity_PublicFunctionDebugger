@@ -1,5 +1,7 @@
 # Unity_PublicFunctionDebugger
 
+![Image](https://user-images.githubusercontent.com/132959865/236965014-dabc2153-0dde-46d4-8d67-85c38fab57a7.png)
+
 ## 詳細
 
 unitypackageをインポートすると、自動でゲームオブジェクトにアタッチされたすべてのpublic関数がエディタ上から操作できるようになります。
